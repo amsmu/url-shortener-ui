@@ -1,4 +1,4 @@
-**Note: The sole focus of this repo is to act as a basic react frontend for url-shortener api. Expect bare minimum UI**
+**Note: The sole focus of this repo is to act as a basic react frontend for url-shortener api. Expect bare minimum UI. And I've added URL validations in frontend as well.**
 
 ## How to run it?
 
